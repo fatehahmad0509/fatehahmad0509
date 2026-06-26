@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fateh
 
-I'm a software developer who enjoys building projects and exploring new technologies. My main focus is backend development, API design, and database systems. I am actually interested in web application development.
+I'm a software developer who enjoys building projects and exploring new technologies. My main focus is frontend development
 
 ---
 
@@ -33,11 +33,7 @@ I'm a software developer who enjoys building projects and exploring new technolo
 
 ## 🛠️ Areas of Interest
 
-* Backend Development
-* REST API Design
-* Database Modeling
-* Web Applications
-* Open Source Projects
+Frontend Development
 
 ---
 
