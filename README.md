@@ -23,6 +23,11 @@ I'm a software developer who enjoys building projects and exploring new technolo
 
 ---
 
+## 📊 Certificates
+
+[Sertifikamı Gör](certificates/certificate.pdf)
+
+
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatehahmad0509\&show_icons=true\&theme=radical)
