@@ -25,7 +25,7 @@ I'm a software developer who enjoys building projects and exploring new technolo
 
 ## 📊 Certificates
 
-[Sertifikamı Gör](certificates/certificate.pdf)
+[Coddy Tech - AI Prompts](certificates/coddy-ai-prompts-certificate.pdf)
 
 
 ## 📊 GitHub Statistics
