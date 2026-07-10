@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fateh
 
-I'm a software developer who enjoys building projects and exploring new technologies. My main focus is backend development, API design, and database systems. I am actually interested in web application development.
+I'm a software developer from Azerbaijan who enjoys building projects and exploring new technologies. My main focus is backend development, API design, and database systems. I am actually interested in web application development.
 
 ---
 
@@ -10,6 +10,9 @@ I'm a software developer who enjoys building projects and exploring new technolo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Database
 
