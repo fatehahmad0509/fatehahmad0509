@@ -40,7 +40,7 @@ I'm a software developer from Azerbaijan passionate about building backend syste
 
 ---
 
-## 📊 GitHub Activities
+## 📊 GitHub Activity
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatehahmad0509&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
@@ -56,7 +56,7 @@ I'm a software developer from Azerbaijan passionate about building backend syste
 * Database Design
 * Web Applications
 * Open Source
-* AI-Integrated Applications
+* AI-Powered Applications
 
 ---
 
