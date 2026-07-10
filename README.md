@@ -40,10 +40,6 @@ I'm a software developer from Azerbaijan who enjoys building projects and explor
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatehahmad0509&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatehahmad0509&layout=compact&theme=radical)
-
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatehahmad0509&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
