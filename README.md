@@ -40,9 +40,9 @@ I'm a software developer from Azerbaijan who enjoys building projects and explor
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatehahmad0509\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatehahmad0509&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatehahmad0509\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatehahmad0509&layout=compact&theme=radical)
 
 ---
 
@@ -56,6 +56,12 @@ I'm a software developer from Azerbaijan who enjoys building projects and explor
 * AI-Integrated Applications
 
 ---
+
+## 🌟 Featured Projects
+
+- 🤖 Nova AI – AI assistant powered by FastAPI and PostgreSQL
+- 🍽️ Mr.Food – AI-powered recipe web application
+- 📚 JustLearnIt – Interactive learning platform
 
 ## 📫 Contact
 
