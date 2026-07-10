@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Fateh
 
-I'm a software developer from Azerbaijan who enjoys building projects and exploring new technologies. My main focus is backend development, API design, and database systems. I am actually interested in web application development.
+Backend Developer • AI Enthusiast • Open Source Developer
+
+I'm a software developer from Azerbaijan passionate about building backend systems, REST APIs, databases, and AI-powered web applications. I enjoy turning ideas into real-world software and continuously learning new technologies.
 
 ---
 
-## 🚀 Technologies
+## 🚀 Tech Stack
 
 ### Backend
 
@@ -33,12 +35,12 @@ I'm a software developer from Azerbaijan who enjoys building projects and explor
 
 ## 📊 Certificates
 
-[Coddy Tech - AI Prompts](certificates/coddy-ai-prompts-certificate.pdf)
+- [Coddy Tech - AI Prompts](certificates/coddy-ai-prompts-certificate.pdf)
 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activities
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatehahmad0509&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
@@ -51,27 +53,41 @@ I'm a software developer from Azerbaijan who enjoys building projects and explor
 
 * Backend Development
 * REST API Design
-* Database Modeling
+* Database Design
 * Web Applications
-* Open Source Projects
+* Open Source
 * AI-Integrated Applications
 
 ---
 
 ## 🌟 Featured Projects
 
-- 🤖 Nova AI – AI assistant powered by FastAPI and PostgreSQL
-- 🍽️ Mr.Food – AI-powered recipe web application
-- 📚 JustLearnIt – Interactive learning platform
+- 🤖 **[Nova AI (Web Edition)](https://github.com/fatehahmad0509/Nova-AI---Web-Edition)** – AI assistant powered by FastAPI and PostgreSQL
+- 🤖 **[Nova AI (Terminal Edition)](https://github.com/fatehahmad0509/Nova-AI-Terminal-Edition)** – AI assistant powered by Google GenAI and SQLite, runs in your terminal
+- 🍽️ **[Mr.Food](https://github.com/fatehahmad0509/Mr.Food)** – AI-powered recipe web application
+- 📚 **[JustLearnIt](https://github.com/fatehahmad0509/JustLearnIt)** – An interactive learning platform for schools
+- 🤖 **[Nova For Coders](https://github.com/fatehahmad0509/Nova-For-Coders)** – A collection of AI-powered CLI tools for developers, built with Python and Google Gemini AI
+- 📚 **[Studify AI](https://github.com/fatehahmad0509/Studify-AI)** – An intelligent AI-powered study companion featuring gamification, automated summarization, and interactive study tools
+- 💬 **[MessageLMS Web Edition](https://github.com/fatehahmad0509/MessageLMS-Web-Edition)** – A real-time messaging platform with a Discord-like experience using WebSocket and PostgreSQL
+- 💻 **[RepoLens AI Telegram Bot](https://github.com/fatehahmad0509/RepoLens-AI-Telegram-Bot)** – A Telegram bot that analyzes GitHub repositories with Google Gemini AI and generates detailed technical reports
 
 
 
+
+
+## 💡 About Me
+
+- 🌍 Originally from Azerbaijan, based in Türkiye
+- 💻 Backend Developer
+- 🤖 Interested in AI-powered applications
 
 ## 📫 Contact
 
-📸 Instagram: **https://www.instagram.com/fatih10273**
+💻 GitHub: **[fatehahmad0509](https://github.com/fatehahmad0509)**
 
-✉️ Email: **[fatehahmad0509@gmail.com](mailto:fatehahmad0509@gmail.com)**
+📧 Email: **fatehahmad0509@gmail.com**
+
+📸 Instagram: **[@fatih10273](https://www.instagram.com/fatih10273)**
 
 ---
 
