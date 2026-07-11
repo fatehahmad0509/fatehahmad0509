@@ -73,8 +73,7 @@ I'm a software developer from Azerbaijan passionate about building backend syste
 - 📚 **[Studify AI](https://github.com/fatehahmad0509/Studify-AI)** – An intelligent AI-powered study companion featuring gamification, automated summarization, and interactive study tools
 - 💬 **[MessageLMS Web Edition](https://github.com/fatehahmad0509/MessageLMS-Web-Edition)** – A real-time messaging platform with a Discord-like experience using WebSocket and PostgreSQL
 - 💻 **[RepoLens AI Telegram Bot](https://github.com/fatehahmad0509/RepoLens-AI-Telegram-Bot)** – A Telegram bot that analyzes GitHub repositories with Google Gemini AI and generates detailed technical reports
-
-
+- 📚 **[Cookie Learn](https://github.com/fatehahmad0509/Cookie-Learn)** – Modern, AI-powered, Duolingo-like language learning platform. React + TypeScript frontend, FastAPI + PostgreSQL backend, live lesson generation with Google Gemini 3.1 Flash Lite.
 
 
 
