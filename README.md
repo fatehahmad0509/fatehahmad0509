@@ -27,8 +27,6 @@ I'm a software developer from Azerbaijan passionate about building backend syste
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-> **Note:** I primarily specialize in backend development. For frontend development, I leverage AI-assisted workflows while focusing on backend architecture, APIs, and database design.
-
 
 ### Tools
 
