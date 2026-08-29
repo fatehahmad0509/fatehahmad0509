@@ -1,34 +1,34 @@
 # 👋 Hi, I'm Fateh
 
-Backend Developer • AI Enthusiast • Open Source Developer
+Former Backend Developer → Cybersecurity & Pentesting Enthusiast
 
-I'm a software developer from Azerbaijan passionate about building backend systems, REST APIs, databases, and AI-powered web applications. I enjoy turning ideas into real-world software and continuously learning new technologies.
+I started my software journey as a **Backend Developer** building REST APIs, database systems, and AI-powered applications. Having developed a solid foundation in software architecture, I have **transitioned into Cybersecurity**, specializing in **Web Application Penetration Testing**, **Offensive Security Tooling**, and **System Security**. 
 
-> **Note:** I build my projects using AI-assisted development workflows. I design the architecture, features, and project structure while leveraging AI to accelerate implementation.
+My background in software engineering gives me a strong advantage: knowing how systems are built allows me to understand how to exploit and secure them better.
+
+> **Note:** I design project architectures and workflows while leveraging AI tools to accelerate build-and-test execution.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Backend
+### Cybersecurity & Offensive Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-### Database
+### Backend & Development (Former Core)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-### Tools
+### Tools & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -36,15 +36,14 @@ I'm a software developer from Azerbaijan passionate about building backend syste
 
 ---
 
-## 📊 Certificates
+## 📊 Certificates & Learning
 
 - [Coddy Tech - AI Prompts](certificates/coddy-ai-prompts-certificate.pdf)
-
+- 🎯 **TryHackMe:** Active Learner (Offensive Pentesting & Web Security Paths)
 
 ---
 
 ## 📊 GitHub Activity
-
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatehahmad0509&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
@@ -54,34 +53,36 @@ I'm a software developer from Azerbaijan passionate about building backend syste
 
 ## 🛠️ Areas of Interest
 
-* Backend Development
-* REST API Design
-* Database Design
-* Web Applications
-* Open Source
-* AI-Powered Applications
+* Web Application Penetration Testing & CTFs
+* Offensive Security Tooling & Python Scripting
+* Privilege Escalation & Linux Security
+* Secure API & Backend Architecture
+* AI-Powered Applications & Security
 
 ---
 
 ## 🌟 Featured Projects
 
+### 🛡️ Security & Pentest (Active / Write-ups)
+- 🧪 **TryHackMe Walkthroughs:** CTF solutions and vulnerability breakdown write-ups *(Coming Soon)*
+- 🛠️ **Offensive Python Tools:** Custom network scanners, enumeration tools, and security scripts *(In Progress)*
+
+### 💻 Backend & AI Systems (Previous Projects)
 - 🤖 **[Nova AI (Web Edition)](https://github.com/fatehahmad0509/Nova-AI---Web-Edition)** – AI assistant powered by FastAPI and PostgreSQL
-- 🤖 **[Nova AI (Terminal Edition)](https://github.com/fatehahmad0509/Nova-AI-Terminal-Edition)** – AI assistant powered by Google GenAI and SQLite, runs in your terminal
-- 🍽️ **[Mr.Food](https://github.com/fatehahmad0509/Mr.Food)** – AI-powered recipe web application
-- 📚 **[JustLearnIt](https://github.com/fatehahmad0509/JustLearnIt)** – An interactive learning platform for schools
-- 🤖 **[Nova For Coders](https://github.com/fatehahmad0509/Nova-For-Coders)** – A collection of AI-powered CLI tools for developers, built with Python and Google Gemini AI
-- 📚 **[Studify AI](https://github.com/fatehahmad0509/Studify-AI)** – An intelligent AI-powered study companion featuring gamification, automated summarization, and interactive study tools
-- 💬 **[MessageLMS Web Edition](https://github.com/fatehahmad0509/MessageLMS-Web-Edition)** – A real-time messaging platform with a Discord-like experience using WebSocket and PostgreSQL
-- 💻 **[RepoLens AI Telegram Bot](https://github.com/fatehahmad0509/RepoLens-AI-Telegram-Bot)** – A Telegram bot that analyzes GitHub repositories with Google Gemini AI and generates detailed technical reports
-- 📚 **[Cookie Learn](https://github.com/fatehahmad0509/Cookie-Learn)** – Modern, AI-powered, Duolingo-like language learning platform. React + TypeScript frontend, FastAPI + PostgreSQL backend, live lesson generation with Google Gemini 3.1 Flash Lite.
+- 🤖 **[Nova AI (Terminal Edition)](https://github.com/fatehahmad0509/Nova-AI-Terminal-Edition)** – AI assistant powered by Google GenAI and SQLite
+- 🍽️ **[Mr.Food](https://github.com/fatehahmad0509/Mr.Food)** – AI-powered recipe and nutrition tracking application
+- 💬 **[MessageLMS Web Edition](https://github.com/fatehahmad0509/MessageLMS-Web-Edition)** – Real-time messaging platform using WebSocket and PostgreSQL
+- 📚 **[Cookie Learn](https://github.com/fatehahmad0509/Cookie-Learn)** – Interactive language learning platform using React, TypeScript, FastAPI & PostgreSQL
 
-
+---
 
 ## 💡 About Me
 
 - 🌍 Originally from Azerbaijan, based in Türkiye
-- 💻 Backend Developer
-- 🤖 Interested in AI-powered applications
+- 🔄 **Transition:** Ex-Backend Developer → Currently focused on Cybersecurity & Ethical Hacking & Pentesting
+- 🎯 Passionate about penetration testing, offensive security tools, and secure coding
+
+---
 
 ## 📫 Contact
 
@@ -93,4 +94,4 @@ I'm a software developer from Azerbaijan passionate about building backend syste
 
 ---
 
-> "Keep learning. Keep building."
+> "Analyze. Exploit. Secure."
