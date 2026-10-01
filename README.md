@@ -112,6 +112,16 @@ Actively studying offensive security and web application security through hands-
 
 ---
 
+## 📜 Certificates
+
+I have completed various certificates and training programs across **cybersecurity, programming, technology, and other areas**.
+
+📁 **[View my Public Certificates Repository](https://github.com/fatehahmad0509/Public-Certificates)**
+
+The repository contains my publicly shareable certificates and achievements, available in both **English and Turkish**.
+
+---
+
 ## 📫 Contact
 
 💻 GitHub: **[fatehahmad0509](https://github.com/fatehahmad0509)**
