@@ -69,8 +69,7 @@ Actively studying offensive security and web application security through hands-
 
 ### 🛡️ Security & Pentesting
 
-* 🧪 **PortSwigger Web Security Write-ups** — Personal notes and vulnerability analysis from hands-on web security labs *(In Progress)*
-* 🛠️ **Offensive Security Tools** — Python-based security and enumeration tools *(In Progress)*
+* 'I am still new at cybersecurity, i will start publishing new projects soon'
 
 ### 💻 Previous Development Projects
 
