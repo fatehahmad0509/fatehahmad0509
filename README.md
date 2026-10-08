@@ -131,6 +131,8 @@ The repository contains my publicly shareable certificates and achievements, ava
 
 👾 TryHackMe: **[fatehahmad0509](https://tryhackme.com/p/fatehahmad0509)**
 
+👾 TryHackMe (2nd Account): **[fatehahmad05](https://tryhackme.com/p/fatehahmad05)**
+
 👾 Coddy: **[Fateh Ahmad](https://coddy.tech/user/h7DxRNMxSHQmMr4bG92YsnF77VX2?via=share_profile)**
 
 ---
