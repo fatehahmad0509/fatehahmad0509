@@ -71,7 +71,7 @@ Actively studying offensive security and web application security through hands-
 ### 🛡️ Security & Pentesting
 
 * **[TryHackMe Writeups](https://github.com/fatehahmad0509/TryHackMe-Writeups)**
-* **[Portswigger-Web-Academy-Writeups](https://github.com/fatehahmad0509/Portswigger-Web-Academy-Writeups)*** 
+* **[Portswigger-Web-Academy-Writeups](https://github.com/fatehahmad0509/Portswigger-Web-Academy-Writeups)**
 
 ### 💻 Previous Development Projects
 
