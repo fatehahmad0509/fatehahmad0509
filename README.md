@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Fateh
 
-Cybersecurity & Web Application Security Enthusiast
+Cybersecurity & Web Application Pentesting
 
-I started my software journey by building backend applications, REST APIs, database systems, and AI-powered applications. I am now focused on **Cybersecurity**, with a particular interest in **Web Application Penetration Testing** and **Offensive Security**.
+I started my software journey by building backend applications, REST APIs, database systems, and AI-powered applications using AI. I am now focused on **Cybersecurity**, with a particular interest in **Web Application Penetration Testing** and **Offensive Security**.
 
 My background in backend development helps me understand how web applications, APIs, databases, authentication systems, and server-side logic are built — and how they can be tested for security weaknesses.
 
@@ -20,7 +20,7 @@ My background in backend development helps me understand how web applications, A
 
 * HTTP / HTTPS
 * Web Application Security
-* OWASP Top 10
+* Cross Site Scripting (XSS)
 * SQL Injection
 * Blind SQL Injection
 * Authentication & Access Control
@@ -29,7 +29,7 @@ My background in backend development helps me understand how web applications, A
 
 ---
 
-## 💻 Programming & Development
+## 💻 Programming & Development (Backend)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
@@ -56,6 +56,7 @@ Hands-on practice with web application vulnerabilities, including:
 * Blind SQL Injection
 * HTTP request manipulation
 * Web application testing with Burp Suite
+* Cross Site Scripting (XSS)
 
 Currently expanding my knowledge across additional web security topics.
 
@@ -69,28 +70,26 @@ Actively studying offensive security and web application security through hands-
 
 ### 🛡️ Security & Pentesting
 
-* 'I am still new at cybersecurity, i will start publishing new projects soon'
+* **[TryHackMe Writeups](https://github.com/fatehahmad0509/TryHackMe-Writeups)**
+* **[Portswigger-Web-Academy-Writeups](https://github.com/fatehahmad0509/Portswigger-Web-Academy-Writeups)*** 
 
 ### 💻 Previous Development Projects
 
-* 🤖 **[Nova AI (Web Edition)](https://github.com/fatehahmad0509/Nova-AI---Web-Edition)** – AI assistant built with FastAPI and PostgreSQL
-* 🤖 **[Nova AI (Terminal Edition)](https://github.com/fatehahmad0509/Nova-AI-Terminal-Edition)** – AI assistant using Google GenAI and SQLite
-* 🍽️ **[Mr.Food](https://github.com/fatehahmad0509/Mr.Food)** – AI-powered recipe and nutrition tracking application
-* 💬 **[MessageLMS Web Edition](https://github.com/fatehahmad0509/MessageLMS-Web-Edition)** – Real-time messaging platform using WebSocket and PostgreSQL
-* 📚 **[Cookie Learn](https://github.com/fatehahmad0509/Cookie-Learn)** – Language learning platform using React, TypeScript, FastAPI & PostgreSQL
+* 🤖 **Nova AI (Web Edition)** – AI assistant built with FastAPI and PostgreSQL
+* 🤖 **Nova AI (Terminal Edition)** – AI assistant using Google GenAI and SQLite
+* 🍽️ **Mr.Food** – AI-powered recipe and nutrition tracking application
+* 💬 **MessageLMS Web Edition** – Real-time messaging platform using WebSocket and PostgreSQL
+* 📚 **Cookie Learn** – Language learning platform using React, TypeScript, FastAPI & PostgreSQL
 
 ---
 
-## 🎯 Areas of Interest
+## 🎯 Areas of Interest (Right Now)
 
 * Web Application Penetration Testing
 * Offensive Security
 * Web Application Security
 * API Security
 * CTFs
-* Security Automation with Python
-* Secure Backend Architecture
-* Linux Security
 
 ---
 
@@ -105,7 +104,7 @@ Actively studying offensive security and web application security through hands-
 ## 👨‍💻 About Me
 
 * 🌍 Originally from Azerbaijan, lives in Turkiye
-* 🔄 Transitioning from backend development toward cybersecurity
+* 🔄 Transitioned from backend development toward cybersecurity
 * 🎯 Currently focused on web application security and penetration testing
 * 📚 Continuously learning through hands-on labs, CTFs, and personal projects
 
