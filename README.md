@@ -134,6 +134,8 @@ The repository contains my publicly shareable certificates and achievements, ava
 
 👾 Coddy: **[Fateh Ahmad](https://coddy.tech/user/h7DxRNMxSHQmMr4bG92YsnF77VX2?via=share_profile)**
 
+👾 HackTheBox: **[fatehahmad0509](https://profile.hackthebox.com/profile/01a13b9a-71c1-70d1-aeb7-4faa74553992?utm_medium=copy_url)**
+
 ---
 
 > "Analyze. Exploit. Secure."
