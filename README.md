@@ -21,6 +21,8 @@ My background in backend development helps me understand how web applications, A
 * HTTP / HTTPS
 * Web Application Security
 * Cross Site Scripting (XSS)
+* Clickjacking
+* Cross Site Request Forgery (CSRF)
 * SQL Injection
 * Blind SQL Injection
 * Authentication & Access Control
@@ -57,12 +59,15 @@ Hands-on practice with web application vulnerabilities, including:
 * HTTP request manipulation
 * Web application testing with Burp Suite
 * Cross Site Scripting (XSS)
+* Cross Site Request Forgery (CSRF)
+* Clickjacking
 
 Currently expanding my knowledge across additional web security topics.
 
 ### TryHackMe
 
 Actively studying offensive security and web application security through hands-on rooms and learning paths.
+* **[TryHackMe Writeups](https://github.com/fatehahmad0509/TryHackMe-Writeups)**
 
 ---
 
@@ -90,6 +95,7 @@ Actively studying offensive security and web application security through hands-
 * Web Application Security
 * API Security
 * CTFs
+* Developing Cyber Security Tools
 
 ---
 
