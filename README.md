@@ -85,7 +85,6 @@ Actively studying offensive security and web security through hands-on rooms and
 
 ## 📊 GitHub Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatehahmad0509&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=fatehahmad0509&style=for-the-badge)
 
