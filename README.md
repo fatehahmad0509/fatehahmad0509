@@ -1,50 +1,62 @@
 # 👋 Hi, I'm Fateh
 
-Cybersecurity & Web Application Pentesting
+Full-Stack & Backend Web Developer & Web Security Enthusiast
 
-I started my software journey by building backend applications, REST APIs, database systems, and AI-powered applications using AI. I am now focused on **Cybersecurity**, with a particular interest in **Web Application Penetration Testing** and **Offensive Security**.
+I started my software journey by building backend applications, REST APIs, database systems, and AI-powered applications. I combine my core passion for **Full-Stack & Backend Web Development** with a strong understanding of **Web Application Security** and **Pentesting** to build robust and secure-by-design applications.
 
-My background in backend development helps me understand how web applications, APIs, databases, authentication systems, and server-side logic are built — and how they can be tested for security weaknesses.
-
----
-
-## 🛡️ Cybersecurity
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge\&logo=kali-linux\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge\&logo=nmap\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge\&logo=burp-suite\&logoColor=white)
-
-### Web Security
-
-* HTTP / HTTPS
-* Web Application Security
-* Cross Site Scripting (XSS)
-* Clickjacking
-* Cross Site Request Forgery (CSRF)
-* SQL Injection
-* Blind SQL Injection
-* Authentication & Access Control
-* Burp Suite
-* Web Security Testing
+My background in development helps me understand how web applications, APIs, databases, authentication systems, and server-side logic are built — and how they can be tested and secured against vulnerabilities.
 
 ---
 
-## 💻 Programming & Development (Backend)
+## 💻 Programming & Development (Backend & Frontend)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### Tools & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🛡️ Web Security & Pentesting
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+
+### Core Web Security Topics
+
+- HTTP / HTTPS
+- Web Application Security
+- Cross Site Scripting (XSS)
+- Clickjacking
+- Cross Site Request Forgery (CSRF)
+- SQL Injection & Blind SQL Injection
+- Authentication & Access Control
+- Burp Suite & Web Security Testing
+
+---
+
+## 🚀 Featured Projects
+
+### 💻 Development & Backend Projects
+
+- 🤖 **Nova AI (Web Edition)** – AI assistant built with FastAPI and PostgreSQL
+- 🤖 **Nova AI (Terminal Edition)** – AI assistant using Google GenAI and SQLite
+- 🍽️ **Mr.Food** – AI-powered recipe and nutrition tracking application
+- 💬 **MessageLMS Web Edition** – Real-time messaging platform using WebSocket and PostgreSQL
+- 📚 **Cookie Learn** – Language learning platform using React, TypeScript, FastAPI & PostgreSQL
+
+### 🛡️ Security & Pentesting Writeups
+
+- **[TryHackMe Writeups](https://github.com/fatehahmad0509/TryHackMe-Writeups)**
+- **[Portswigger-Web-Academy-Writeups](https://github.com/fatehahmad0509/Portswigger-Web-Academy-Writeups)**
 
 ---
 
@@ -52,67 +64,39 @@ My background in backend development helps me understand how web applications, A
 
 ### PortSwigger Web Security Academy 
 
-Hands-on practice with web application vulnerabilities, including:
-
-* SQL Injection
-* Blind SQL Injection
-* HTTP request manipulation
-* Web application testing with Burp Suite
-* Cross Site Scripting (XSS)
-* Cross Site Request Forgery (CSRF)
-* Clickjacking
-
-Currently expanding my knowledge across additional web security topics.
+Hands-on practice with web application vulnerabilities, including SQL injection, XSS, CSRF, and request manipulation using Burp Suite.
 
 ### TryHackMe
 
-Actively studying offensive security and web application security through hands-on rooms and learning paths.
-* **[TryHackMe Writeups](https://github.com/fatehahmad0509/TryHackMe-Writeups)**
+Actively studying offensive security and web security through hands-on rooms and learning paths.
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Areas of Interest
 
-### 🛡️ Security & Pentesting
-
-* **[TryHackMe Writeups](https://github.com/fatehahmad0509/TryHackMe-Writeups)**
-* **[Portswigger-Web-Academy-Writeups](https://github.com/fatehahmad0509/Portswigger-Web-Academy-Writeups)**
-
-### 💻 Previous Development Projects
-
-* 🤖 **Nova AI (Web Edition)** – AI assistant built with FastAPI and PostgreSQL
-* 🤖 **Nova AI (Terminal Edition)** – AI assistant using Google GenAI and SQLite
-* 🍽️ **Mr.Food** – AI-powered recipe and nutrition tracking application
-* 💬 **MessageLMS Web Edition** – Real-time messaging platform using WebSocket and PostgreSQL
-* 📚 **Cookie Learn** – Language learning platform using React, TypeScript, FastAPI & PostgreSQL
-
----
-
-## 🎯 Areas of Interest (Right Now)
-
-* Web Application Penetration Testing
-* Offensive Security
-* Web Application Security
-* API Security
-* CTFs
-* Developing Cyber Security Tools
+- Backend Web Development
+- Frontend Web Development
+- Full Stack Web Development
+- Web Application Penetration Testing
+- API Security
+- CTFs
 
 ---
 
 ## 📊 GitHub Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatehahmad0509\&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatehahmad0509&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![](https://komarev.com/ghpvc/?username=fatehahmad0509\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=fatehahmad0509&style=for-the-badge)
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🌍 Originally from Azerbaijan, lives in Turkiye
-* 🔄 Transitioned from backend development toward cybersecurity
-* 🎯 Currently focused on web application security and penetration testing
-* 📚 Continuously learning through hands-on labs, CTFs, and personal projects
+- 🌍 Originally from Azerbaijan, lives in Turkiye
+- 🔄 Combining core **Full-Stack & Backend Development** with **Web Application Security**
+- 🎯 Focused on building secure, scalable web applications while practicing offensive security
+- 📚 Continuously learning through hands-on coding, labs, and personal projects
 
 ---
 
@@ -144,4 +128,4 @@ The repository contains my publicly shareable certificates and achievements, ava
 
 ---
 
-> "Analyze. Exploit. Secure."
+> "Build. Exploit. Secure."
