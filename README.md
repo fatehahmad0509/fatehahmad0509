@@ -80,6 +80,15 @@ Exploring practical penetration testing concepts and offensive security through 
 
 ---
 
+## 🤖 AI-Assisted Development
+
+- Using AI tools to assist with software development and problem-solving.
+- Planning application architecture and designing features with AI assistance.
+- Reviewing, testing, debugging, and refining AI-generated code.
+- Using AI to explore technical concepts and improve development workflows.
+- Focusing on understanding the code, architecture, and decisions behind AI-generated solutions.
+
+
 ## 🎯 Areas of Interest
 
 - Backend Web Development
@@ -121,15 +130,6 @@ The repository contains my publicly shareable certificates and achievements, ava
 
 ---
 
-
-🤖 AI-Assisted Development
-- Using AI tools to assist with software development and problem-solving.
-- Designing application architecture and planning features with AI assistance.
-- Reviewing, testing, debugging, and refining AI-generated code.
-- Using AI to explore technical concepts and improve development workflows.
-- Treating AI as a development assistant while maintaining focus on understanding the code and decisions behind it.
-
----
 
 ## 📫 Contact
 
