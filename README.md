@@ -88,6 +88,7 @@ Exploring practical penetration testing concepts and offensive security through 
 - Using AI to explore technical concepts and improve development workflows.
 - Focusing on understanding the code, architecture, and decisions behind AI-generated solutions.
 
+---
 
 ## 🎯 Areas of Interest
 
